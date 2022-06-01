@@ -8,5 +8,5 @@ I have experience in:
 - Quantum computing
 - DevOps and System Design
 
-Feel free to reach out to me at <firstname><lastname>5 at gmail dot com. 
+Feel free to reach out to me at (firstname)(lastname)5 at gmail dot com. 
 
