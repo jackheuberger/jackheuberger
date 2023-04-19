@@ -8,4 +8,4 @@ I have experience in:
 - DevOps and system design
 - Linux system administration
 
-Feel free to reach out to me -- (lastname) at duck dot com. 
+Feel free to reach out to me -- (lastname) at *duck* dot com. 
